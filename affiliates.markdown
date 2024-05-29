@@ -17,6 +17,7 @@ We are in the process of restarting our affiliates program post pandemic.
 * Teradata
 * Microsoft
 * MotherDuck
+* Numbers Station
 * Western Digital
 
 
