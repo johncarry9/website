@@ -1,10 +1,5 @@
 # use image: placeholder.jpg for those w/o pics
 
-- name: Maureen Daum
-  nickname: Maureen
-  website: https://homes.cs.washington.edu/~mdaum/
-  image: maureen.jpg
-
 - name: Dong He
   nickname: Dong
   website: https://dongheuw.github.io/
@@ -24,11 +19,6 @@
   nickname: Jieyu
   website: https://jieyuz2.github.io/
   image: jieyu.jpeg
-
-- name: Anton Lykov
-  nickname: Anton
-  website: https://antonlykov.com
-  image: anton.jpg
 
 - name: Kyle Deeds
   nickname: Kyle

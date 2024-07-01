@@ -4,6 +4,18 @@
   image: remy.jpg
   at: UCLA
 
+- name: Maureen Daum
+  nickname: Maureen
+  website: https://homes.cs.washington.edu/~mdaum/
+  image: maureen.jpg
+  at: Numbers Station
+
+- name: Anton Lykov
+  nickname: Anton
+  website: https://antonlykov.com
+  image: anton.jpg
+  at: Databricks
+
 - name: Maaz Ahmad
   nickname: Maaz
   website: http://homes.cs.washington.edu/~maazsaf/
