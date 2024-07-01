@@ -14,6 +14,7 @@ We are in the process of restarting our affiliates program post pandemic.
 ## UWDB Affiliate Members
 
 * Amazon
+* Google
 * Teradata
 * Microsoft
 * MotherDuck
