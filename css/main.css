@@ -246,10 +246,6 @@ table td {
   width: 100%;
 }
 
-ul.less-compact li {
-  line-height: 2;
-}
-
 ul.list-style-none li {
     list-style: none;
 }
