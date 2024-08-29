@@ -10,31 +10,27 @@ permalink: /people/magda/teaching
 
 ## Teaching
 
-<p>
-    If you are looking for our regular database group meetings and talks, they are under <a href="http://www.cs.washington.edu/education/courses/591d/">CSE 591D</a>
-    <br> <a href="http://www.cs.washington.edu/education/courses/590q/">The database reading seminar is CSE590Q. </a>
-</p>
+If you are looking for our regular database group meetings and talks, they are under [CSE 591D](http://www.cs.washington.edu/education/courses/591d/)
 
-<p>I regularly teach the following courses:</p>
+[The database reading seminar is CSE590Q.](http://www.cs.washington.edu/education/courses/590q)
 
-<ul class='less-compact'>
-    <li class="column"><a href="https://courses.cs.washington.edu/courses/csed516/">DATA516/CSED516</a>: Scalable Data Systems and Algorithms.&nbsp;</li>
-    <li class="column"><a href="http://www.cs.washington.edu/education/courses/444/">CSE444 </a>: Database Systems Internals </li>
-    <li class="column"><a href="http://www.cs.washington.edu/education/courses/544/">CSE544 </a>: Principles of Database Systems</li>
-    <li class="column"><a href="http://www.cs.washington.edu/education/courses/344/">CSE344</a>: Introduction to Data Management </li>
-    <li class="column"><a href="http://www.cs.washington.edu/education/courses/599c/">CSE599c</a>: Topics Vary.</li>
-</ul>
+I regularly teach the following courses:
 
-<p>In the past, I also taught:</p>
-<ul class='less-compact'>
-    <li class="column">
-        <a href="http://www.cs.washington.edu/education/courses/303">CSE303</a>:
-        Concepts and Tools for Software Development
-    </li>
-    <li class="column">
-        <a href="http://www.cs.washington.edu/education/courses/490r/08au/">CSE490R</a>:
-        Broader Impacts of Computer Science and Computer Science Research (Fall 2008).
-    </li>
-</ul>
+* [DATA516/CSED516](https://courses.cs.washington.edu/courses/csed516/): Scalable Data Systems and Algorithms
 
-<p>I often host talks in the <a href="http://data.cs.washington.edu/nwds/">Northwest Database Society Symposium (NWDS)</a>.</p>
+* [CSE444](http://www.cs.washington.edu/education/courses/444/): Database Systems Internals
+
+* [CSE544](http://www.cs.washington.edu/education/courses/544/): Principles of Database Systems
+
+* [CSE344](http://www.cs.washington.edu/education/courses/344/): Introduction to Data Management
+
+* [CSE599c](http://www.cs.washington.edu/education/courses/599c/): Topics Vary
+
+
+In the past, I also taught:
+
+* [CSE303](http://www.cs.washington.edu/education/courses/303): Concepts and Tools for Software Development
+
+* [CSE490R](http://www.cs.washington.edu/education/courses/490r/08au/): Broader Impacts of Computer Science and Computer Science Research (Fall 2008).
+
+I often host talks in the [Northwest Database Society Symposium (NWDS)](http://data.cs.washington.edu/nwds/).
